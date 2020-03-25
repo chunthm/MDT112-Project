@@ -26,3 +26,6 @@
 ### Manipulation
    - Buzzer
    - Touch screen display
+   
+ ## Flowchart
+ ![alt text]
