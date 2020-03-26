@@ -28,4 +28,4 @@
    - Touch screen display
    
  ## Flowchart
- ![alt text](https://github.com/chunthm/MDT112-Project-GAD/blob/master/Project%20Flowchart01.jpg)
+ ![alt text](https://github.com/chunthm/MDT112-Project-GAD/blob/master/Project%20Flowchart(2).jpg)
